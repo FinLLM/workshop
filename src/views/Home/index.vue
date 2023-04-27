@@ -34,33 +34,6 @@
         practitioners, and industry experts from academia and industry to submit their work and participate in this
         exciting event.
       </div>
-      <h1>Related Workshops</h1>
-      <div class="cente-text mg-bottom">
-        <div class="cente-text-title">
-          Workshops about LLM and NLP for Finance have been successfully held multiple times in conjunction with leading
-          AI conferences:
-        </div>
-        <div class="cente-text-cente">
-          1.IJCAI 2022 The 4th Workshop on Financial Technology and Natural Language Processing (FinNLP) with
-          FinSim4-ESG Shared Task, July 24,2022, Vienna, Austria
-          (https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022/)
-          <br />2.ACL Workshop on BigScience – Challenges & Perspectives in Creating Large Language Models, May 27th,
-          2022(https://bigscience.huggingface.co/acl-2022) <br />3.NeurIPS 2022 Workshop on Foundation Models for
-          Decision Making (https://sites.google.com/view/fmdm-neurips/) <br />4.NeurIPS 2022 Workshop on Language and
-          Reinforcement Learning (https://larel-workshop.github.io/) <br />5.IJCAI 2021 Workshop The 3rd Workshop on
-          Financial Technology and Natural Language Processing (FinNLP), Online
-          (https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp2021/) <br />6.The 8th Annual Bloomberg-Columbia Machine
-          Learning in Finance Workshop 2022
-          (https://cfe.columbia.edu/events/8th-annual-bloomberg-columbia-machine-learning-finance-workshop-2022)
-          <br />7.Swiss Text Analytics Conference 2021: Workshop 3: NLP in Finance
-          (https://www.swisstext.org/swisstext.org/2021/nlp-in-finance/index.html) <br />8.ICAIF 2022 3rd ACM
-          International Conference on AI in Finance (https://ai-finance.org/)
-        </div>
-        <div class="cente-footer">
-          Considering the increasing popularity of LLMs and Financial Technology demonstrated by above workshops, we
-          believe the proposed workshop will continue to be a great success.
-        </div>
-      </div>
       <h1>Draft of Call for Papers</h1>
       <div class="cente-text mg-bottom">
         <div class="cente-text-title">
@@ -122,44 +95,35 @@
         <div class="card">
           <p class="title">Workshop Date:</p>
           <p class="timer">
-            <span class="month">August 21, 2023</span>
+            <span class="month">August 20, 2023</span>
           </p>
         </div>
       </div>
       <h1>Submission Instructions</h1>
       <div class="cente-text mg-bottom">
         <div class="cente-text-cente justify">
-          Submissions should be a maximum of 7 and a minimum of 4 pages including figures and tables in IJCAI’23 format.
+          Submissions should be a maximum of 7 and a minimum of 4 pages including figures and tables in IJCAI'23 format.
           Additional pages containing only cited references are allowed. We do accept submissions of work recently
           published or currently under review. The submissions can contain author details. The workshop will not have
-          formal proceedings, but authors of accepted abstracts can choose to have their work published on the workshop
-          webpage. Selected papers from the workshop will be published in a journal special issue.
-        </div>
-      </div>
-      <h1>Proposed Workshop Format</h1>
-      <div class="cente-text mg-bottom">
-        <div class="cente-text-cente justify">
-          We propose a 1-day workshop, including both oral and poster presentations. Our team members have successfully
-          held previous workshops in virtual format during the ongoing COVID-19 pandemic in conjunction with IJCAI and
-          other AI conferences (i.e., FL-IJCAI’20, FL-ICML’20, RSEML-AAAI-21, FTL-IJCAI’21, FL-ICML’21 and FL-AAAI-22).
-          Our team is well-prepared and willing to continue holding the proposed workshop in IJCAI’23 in the virtual
-          format should the situation requires.
+          formal proceedings, but authors of accepted papers can choose to have their work published on the workshop
+          webpage. Top selected papers from the workshop will be invited to publish in a journal special issue.
         </div>
       </div>
     </div>
     <div class="middle">
       <div class="w padding">
-        <h1>Proposed Schedule</h1>
+        <h1>Tentative Schedule</h1>
         <div>
           <div style="margin-right: 309px">
             <span>Morning:</span>
             <br />
-            -Invited talks (30 minutes each) <br />-Oral presentations <br />-Break <br />-Oral presentations
+            09:00 - 10:00 Invited talks (30 minutes each) <br />10:00 - 10:45 Oral presentations <br />10:45 -
+            11:00Break <br />11:00 - 11:45 Oral presentations
           </div>
           <div>
             <span>Afternoon:</span>
-            <br />-Invited talks (30 minutes each) <br />-Oral presentations <br />-Break <br />-Panel Discussion (60
-            minutes) <br />-Award Ceremony
+            <br />13:00 - 14:30 Invited talks (30 minutes each) <br />14:30 - 15:15 Oral presentations <br />15:15 -
+            15:30 Break <br />15:30 - 16:30 Panel Discussion (60 minutes) <br />16:30 - 17:00 Award Ceremony
           </div>
         </div>
       </div>
@@ -294,19 +258,12 @@
           Google Scholar: <br />https://scholar.google.com/citations?user=1LxWZLQAAAAJ
         </div>
       </div>
-      <h1>List of 5 key publications on Large Language Models for Financial Services:</h1>
+      <h1>The Main Conference Information</h1>
       <div class="cente-text mg-bottom">
         <div class="cente-text-cente justify">
-          1.Aohan Zeng, Xiao Liu, Zhengxiao Du, Zihan Wang, Hanyu Lai, Ming Ding, Zhuoyi Yang, Yifan Xu, Wendi Zheng,
-          Xiao Xia, Weng Lam Tam, Zixuan Ma, Yufei Xue, Jidong Zhai, Wenguang Chen, Zhiyuan Liu, Peng Zhang, Yuxiao
-          Dong, and Jie Tang. GLM-130B: An Open Bilingual Pre-trained Model. In ICLR 2023. <br />2.Ming Ding, Wendi
-          Zheng, Wenyi Hong, and Jie Tang. CogView2: Faster and Better Text-to-Image Generation via Hierarchical
-          Transformers. In NeurIPS 2022. <br />3.Zhengxiao Du, Yujie Qian, Xiao Liu, Ming Ding, Jiezhong Qiu, Zhilin
-          Yang, and Jie Tang. GLM: General Language Model Pretraining with Autoregressive Blank Infilling. In ACL 2022.
-          <br />4.Shijie Wu, Ozan Irsoy, Steven Lu, Vadim Dabravolski, Mark Dredze, Sebastian Gehrmann, Prabhanjan
-          Kambadur, David Rosenberg, Gideon Mann. BloombergGPT: A Large Language Model for Finance. 2023
-          https://doi.org/10.48550/arXiv.2303.17564 Liu Z , Huang D , Huang K , et al. FinBERT: A Pre-trained Financial
-          Language Representation Model for Financial Text Mining. In IJCAI 2020.
+          IJCAI 2023, <br />THE 32nd INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE. <br />19th-25th August
+          2023 <br />Macao, S.A.R <br />
+          <a href="https://ijcai-23.org/">https://ijcai-23.org/</a>
         </div>
       </div>
     </div>
