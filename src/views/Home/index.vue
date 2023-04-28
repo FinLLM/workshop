@@ -116,14 +116,13 @@
         <div>
           <div style="margin-right: 309px">
             <span>Morning:</span>
-            <br />
-            09:00 - 10:00 Invited talks (30 minutes each) <br />10:00 - 10:45 Oral presentations <br />10:45 -
-            11:00Break <br />11:00 - 11:45 Oral presentations
+            <br />-08:30 - 09:00 Registeration<br />-09:00 - 10:00 Invited talks <br />-10:00 - 10:45 Oral presentations
+            <br />-10:45 - 11:00 Break <br />-11:00 - 11:45 Oral presentations
           </div>
           <div>
             <span>Afternoon:</span>
-            <br />13:00 - 14:30 Invited talks (30 minutes each) <br />14:30 - 15:15 Oral presentations <br />15:15 -
-            15:30 Break <br />15:30 - 16:30 Panel Discussion (60 minutes) <br />16:30 - 17:00 Award Ceremony
+            <br />-13:00 - 14:30 Invited talks <br />-14:30 - 15:15 Oral presentations <br />-15:15 - 15:30 Break
+            <br />-15:30 - 16:30 Panel Discussion <br />-16:30 - 17:00 Award Ceremony
           </div>
         </div>
       </div>
