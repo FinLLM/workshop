@@ -114,7 +114,7 @@
       <div class="w padding">
         <h1>Tentative Schedule</h1>
         <div>
-          <div style="margin-right: 309px">
+          <div class="middle-mg">
             <span>Morning:</span>
             <br />-08:30 - 09:00 Registeration<br />-09:00 - 10:00 Invited talks <br />-10:00 - 10:45 Oral presentations
             <br />-10:45 - 11:00 Break <br />-11:00 - 11:45 Oral presentations
@@ -154,7 +154,7 @@
       </div>
       <p class="h1-title">Tentative Program Committee:</p>
       <div class="item-box mg-bottom">
-        <div class="item-box-left bg-none">
+        <div class="item-box-left bg-none media-bottom">
           <div>
             1.Adria Gascon (The Alan Turing Institute / University of Warwick) <br />2.Anis Elgabli (University of
             Oulu)<br />
@@ -298,7 +298,7 @@ export default {}
   line-height: 103px;
   font-size: 28px;
   color: #ffffff;
-  letter-spacing: -1.65px;
+  letter-spacing: 0;
   font-weight: 700;
   background: url('@/assets/img/CTA.png') no-repeat;
   background-size: cover;
@@ -468,6 +468,71 @@ export default {}
         span {
           font-size: 35px;
           font-weight: 700;
+        }
+      }
+    }
+    .middle-mg {
+      margin-right: 309px;
+    }
+  }
+}
+@media (max-width: 750px) {
+  .header,
+  .footer,
+  .middle {
+    min-width: 375px;
+  }
+  .header {
+    height: 200px;
+    line-height: 200px;
+    font-size: 80px;
+  }
+  .w {
+    min-width: 100vw;
+    max-width: 100vw;
+  }
+  .center-box {
+    .cente-text {
+      line-height: 50px;
+    }
+    .item-box {
+      line-height: 60px;
+      display: block;
+      .item-box-left,
+      .item-box-right {
+        width: 100%;
+        text-align: left;
+      }
+      .item-box-left {
+        margin-bottom: 30px;
+        background-position-x: 700px;
+      }
+      .media-bottom {
+        margin-bottom: 0;
+      }
+    }
+    .card-box {
+      flex-wrap: wrap;
+      .card {
+        width: 49%;
+        margin-bottom: 30px;
+        .title {
+          margin-bottom: 20px;
+        }
+      }
+    }
+  }
+  .middle {
+    height: auto;
+    padding: 72px 0;
+    & > div {
+      .middle-mg {
+        margin: 0;
+      }
+      & > div {
+        display: unset;
+        & > div {
+          line-height: 60px;
         }
       }
     }
