@@ -18,23 +18,23 @@
       </div>
     </div>
     <div class="center-box w padding">
-      <h1>Scope</h1>
+      <h1>Scope and Objective</h1>
       <div class="cente-text mg-bottom">
-        Pretrained large language models (LLMs) have recently shown tremendous potential in various natural language
-        processing tasks, such as language generation, machine translation, and question answering. In the financial
-        services industry, pretrained LLMs could have a significant impact on tasks such as financial forecasting, risk
-        management, and sentiment analysis. Additionally, LLMs can help automate the process of analyzing financial
-        reports and extracting key insights that can help businesses make informed decisions.<br /><br />
-        This workshop will provide a platform to bring together researchers, practitioners, and industry experts from
-        around the world to share new ideas, exchange research findings, and discuss the challenges and opportunities in
-        the field. The workshop will cover two themes: 1) potential applications and best practices of pretrained LLMs
-        for financial services; and 2) challenges that need to be addressed to make them efficient, effective and
-        trustworthy. <br /><br />The workshop will also include invited talks by leading researchers and industry
-        experts, as well as panel discussions on the latest trends and challenges in the field. We welcome researchers,
-        practitioners, and industry experts from academia and industry to submit their work and participate in this
-        exciting event.
+        Pretrained large language models (LLMs) have demonstrated tremendous potential in various natural language
+        processing tasks, including language generation, machine translation, and question answering. In the financial
+        services industry, pretrained LLMs have the potential to significantly impact tasks such as financial
+        forecasting, risk management, and sentiment analysis. Moreover, LLMs can help automate the process of analyzing
+        financial reports and extracting key insights that can aid businesses in making informed decisions.<br /><br />
+        This symposium provides a platform for researchers, practitioners, and industry experts from around the world to
+        share new ideas, exchange research findings, and discuss the challenges and opportunities in the field of
+        pretrained LLMs for financial services. The symposium will cover two themes: 1) potential applications and best
+        practices of pretrained LLMs for financial services; and 2) challenges that need to be addressed to make them
+        efficient, effective, and trustworthy. <br /><br />
+        The symposium will also feature invited talks by leading researchers and industry experts, as well as panel
+        discussions on the latest trends and challenges in the field. We welcome researchers, practitioners, and
+        industry experts from academia and industry to submit their work and participate in this exciting event.
       </div>
-      <h1>Draft of Call for Papers</h1>
+      <h1>Call for Papers</h1>
       <div class="cente-text mg-bottom">
         <div class="cente-text-title">
           We welcome submissions on recent advances and applications of large language models (LLMs) in financial
@@ -116,14 +116,13 @@
         <div>
           <div class="middle-mg">
             <span>Morning:</span>
-            <br />
-            09:00 - 10:00 Invited talks (30 minutes each) <br />10:00 - 10:45 Oral presentations <br />10:45 -
-            11:00Break <br />11:00 - 11:45 Oral presentations
+            <br />• 08:30 - 09:00 Registeration<br />• 09:00 - 10:00 Invited talks <br />• 10:00 - 10:45 Oral
+            presentations <br />• 10:45 - 11:00 Break <br />• 11:00 - 11:45 Oral presentations
           </div>
           <div>
             <span>Afternoon:</span>
-            <br />13:00 - 14:30 Invited talks (30 minutes each) <br />14:30 - 15:15 Oral presentations <br />15:15 -
-            15:30 Break <br />15:30 - 16:30 Panel Discussion (60 minutes) <br />16:30 - 17:00 Award Ceremony
+            <br />• 13:00 - 14:30 Invited talks <br />• 14:30 - 15:15 Oral presentations <br />• 15:15 - 15:30 Break
+            <br />• 15:30 - 16:30 Panel Discussion <br />• 16:30 - 17:00 Award Ceremony
           </div>
         </div>
       </div>
@@ -195,66 +194,33 @@
           </div>
         </div>
       </div>
-      <h1>CVs of Organizing Committee</h1>
+      <h1>Organizers of Organizing Committee</h1>
       <div class="cente-text mg-bottom">
         <div class="cente-text-cente justify">
-          <span>Shuoling Liu </span>
-          is the Managing Director, Head of Institute of Innovation, and Executive Chairman of FinTech Technology
-          Committee at E Fund. He is also a FinTech Committee member of Asset Management Association of China (AMAC) and
-          a member of Quantitative Investment Committee of Investment Technology League (ITL). His research interest
-          includes algorithmic trading, artificial-Intelligence based bond default prediction, and big-data-based ESG
-          research. His research on bond default was awarded the second prize of the Annual FinTech Development by the
-          People’s Bank of China in 2020 and selected as the Capital Market FinTech Innovation Pilot Project in
-          Guangzhou. He holds more than 10 FinTech-related patents. <br />Email: liushuoling@efunds.com.cn<br /><br />
-          <span>Xueyang Wu</span>
-          received his PhD from the Hong Kong University of Science and Technology in 2023. He is the co-founder of
-          Flaiverse and is currently principal scientist at Flaiverse. Xueyang Wu has been involved in the development
-          of numerous industrial AI applications that highly related to LLMs. His research interests are transfer
-          learning, federated learning, speech and natural language processing, and their instrumental improvement for
-          LLMs. He published many research papers and patents. His professional services include serving as a reviewer
-          for some of the most prestigious conferences in the field of Artificial Intelligence, such as NeurIPS, KDD,
-          ICML, ICLR, and many others. <br />Email: xwuba@connect.ust.hk<br /><br />
-          <span>Yongpeng Tang </span>
-          is a highly senior FinTech expert in mutual fund industry with experience of over 20 years. He works at E Fund
-          as Managing Director and Head of Application Development of E Fund. He has been involved in the development of
-          numerous innovative products and services and acquired more than 10 FinTech-related patents and was awarded
-          the second prize of the Annual FinTech Development by the People’s Bank of China in 2020. He sets up a
-          scholarship at the Institute of Computing Science of the Chinese Academy of Sciences to encourage students to
-          join the financial technology industry. He has a strong domestic and international presence and has been
-          invited to attend artificial intelligence and financial forums and conferences for countless times and
-          delivered keynote speeches. <br />Email: typ@efunds.com.cn<br /><br />
-          <span>Qian Xu</span>
-          received her PhD from Hong Kong University of Science and Technology in 2011. She is currently an Adjunct
-          Associate Professor of Artificial Intelligence Thrust at HKUST(GZ). Her research interests include Artificial
-          Intelligence, Transfer Learning, Federated Learning, Natural Language Processing, with a particular focus on
-          LLMs. She has extensive experience and expertise in the field of LLMs, having published many research papers
-          and patents in this area. She has been serving for several High-tech companies for many years, like Baidu Inc.
-          and Webank Inc. Her research results have been applied to search engine, recommendation system and digital
-          human. These well-known Internet products are used by billions of users. She is Executive Director of
-          Guangdong Society of Artificial Intelligence and Robotics, and one of founding members of Guangdong-Hong
-          Kong-Macao Greater Bay Area Society of Artificial Intelligence and Robotics. <br />Email: qianxu@ust.hk<br /><br />
-          <span>Liyuan Chen</span>
-          is Chief Operating Officer and Chairman of Fin-Tech Technology Committee of E Fund. She is a senior executive
-          with more than 10 years of experience in business and technology. She has been committed to promoting the
-          application of financial technology and made great contributions of the digital intelligence level of E Fund
-          as well as the industry. She leads the FinTech Sector of E Fund, whose scientific researches has been
-          transformed into high-profit productivities and publications in top-tier conferences such as IJCAI.<br />
-          Email: chenly@efunds.com.cn<br /><br />
-          <span>Qiang Yang</span>
-          received his PhD from Computer Science Department of the University of Maryland, College Park in 1989. He had
-          been an assistant/associate professor at the University of Waterloo between 1989 and 1995, and a professor and
-          NSERC Industrial Research Chair at Simon Fraser University in Canada from 1995 to 2003. He had been an
-          associate professor at Department of Computer Science and Engineering (CSE), The Hong Kong University of
-          Science and Technology (HKUST) from 2001 to 2007, and a full professor in the same department since 2007. He
-          was the founding head of No-ah's Ark Lab (2012-2015). He is the Department Head of CSE, HKUST and University
-          New Bright Professor of Engineering and Chair Professor since 2015. He is a Fellow of AAAI, ACM, IEEE, AAAS,
-          IAPR, and CAAI. His professional services include IJCAI President (2017-2019), ACM SIGART (SIGAI) Vice Chair
-          (2009-2012); PC Chair or Co-Chair of IJCAI (2015), ACM KDD (2010); Conference Chair of ACM KDD (2012), ACM
-          RecSys (2013), ACM IUI (2010), etc; 2017 IJCAI Awards Committee Chair; 2017 ACM SIGKDD Test of Time Award
-          Chair; 2017 IEEE Intelligent Systems “AI Ten to Watch” Chair; 2018 ACM SIGKDD Award Chair; Editor in Chief of
-          IEEE Transactions on BIG DATA (2015-present) and ACM Trans. on Intelligent Systems and Technology (2009-2014);
-          Associate Editor of IEEE Intelligent Systems (2005-present) and IEEE Transactions on Knowledge and Data
-          Engineering (2005-2009). <br />Email: qyang@cse.ust.hk<br />
+          <span>Shuoling Liu: </span>
+          MD, Head of Institute of Innovation, Exec. Chairman of FinTech Tech. Committee at E Fund, FinTech Committee
+          member at AMAC, Quantitative Investment Committee member at ITL. Research interests: algo trading, AI-based
+          bond default prediction, big-data-based ESG research. Awards: PBOC Annual FinTech Development (2020). 10+
+          FinTech-related patents. <br /><br />
+          <span>Xueyang Wu: </span>
+          PhD, HKUST (2023), Co-founder & Principal Scientist at Flaiverse. Research interests: transfer learning,
+          federated learning, NLP, LLMs. Publications: research papers & patents. Reviewer: NeurIPS, KDD, ICML, ICLR,
+          etc. <br /><br />
+          <span>Yongpeng Tang: </span>
+          Senior FinTech expert, MD, Head of Application Development at E Fund. 20+ years experience. 10+
+          FinTech-related patents. Awards: PBOC Annual FinTech Development (2020). Scholarship at Chinese Academy of
+          Sciences. Keynote speaker at AI and finance forums. <br /><br />
+          <span>Qian Xu: </span>
+          PhD, HKUST (2011), Adjunct Associate Professor at HKUST(GZ). Research interests: AI, transfer learning,
+          federated learning, NLP, LLMs. Experience at Baidu Inc. & Webank Inc. Executive Director of GSAIR & Founding
+          Member of GBA Society of AI and Robotics. <br /><br />
+          <span>Liyuan Chen: </span>
+          COO, Chairman of Fin-Tech Technology Committee at E Fund. 10+ years experience. Led FinTech Sector at E Fund,
+          resulting in high-profit productivities & top-tier conference publications. <br /><br />
+          <span>Qiang Yang: </span>
+          PhD, UMD (1989), Department Head of CSE & University New Bright Professor of Engineering and Chair Professor
+          at HKUST. Fellow of AAAI, ACM, IEEE, AAAS, IAPR, CAAI. IJCAI President (2017-2019), ACM SIGART (SIGAI) Vice
+          Chair (2009-2012), PC Chair or Co-Chair: IJCAI (2015), ACM KDD (2010)<br />
           Google Scholar: <br />https://scholar.google.com/citations?user=1LxWZLQAAAAJ
         </div>
       </div>
