@@ -276,6 +276,7 @@ export default {}
 </script>
 
 <style lang="less" scoped>
+@import '../../style/public.less';
 .padding {
   padding: 0 205px;
 }
@@ -538,5 +539,25 @@ export default {}
       }
     }
   }
+}
+/* 针对 Firefox 浏览器 */
+@supports (-moz-appearance: none) {
+  @media (max-width: 750px) {
+    .public-mixin();
+  }
+}
+/* 针对 iOS 设备，Retina 屏幕 */
+@media screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 750px) {
+  .public-mixin();
+}
+
+/* 针对 iOS 设备，非 Retina 屏幕 */
+@media screen and (-webkit-max-device-pixel-ratio: 1) and (max-width: 750px) {
+  .public-mixin();
+}
+
+/* 针对特定的 iOS 设备（例如：iPhone 6/7/8 Plus） */
+@media screen and (device-aspect-ratio: 16/9) and (-webkit-min-device-pixel-ratio: 3) and (max-width: 750px) {
+  .public-mixin();
 }
 </style>

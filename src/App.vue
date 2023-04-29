@@ -15,6 +15,12 @@ export default {
 </script>
 
 <style>
+html {
+  -webkit-text-size-adjust: 100%; /* WebKit */
+  -ms-text-size-adjust: 100%; /* IE */
+  -moz-text-size-adjust: 100%; /* Firefox */
+}
+
 body {
   margin: 0;
 }
