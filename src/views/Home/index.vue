@@ -18,6 +18,22 @@
       </div>
     </div>
     <div class="center-box w padding">
+      <div class="center-img-box">
+        <div class="center-text-box">
+          <div class="center-text-content">
+            <div class="center-text-top">
+              <span class="center-text-title">Workshop Date: <br /></span>
+              <span class="center-text-body">August 20, 2023 <br /></span>
+            </div>
+            <span class="center-text-title">Venue: <br /></span>
+            <span class="center-text-body">Sheraton Grand Macao Hotel,Macau</span>
+          </div>
+        </div>
+        <img
+          class="center-img"
+          src="@/assets/img/hotel.png"
+        />
+      </div>
       <h1>Scope and Objective</h1>
       <div class="cente-text mg-bottom">
         Pretrained large language models (LLMs) have demonstrated tremendous potential in various natural language
@@ -40,7 +56,6 @@
           We welcome submissions on recent advances and applications of large language models (LLMs) in financial
           services. We encourage submissions that cover a wide range of topics, including but not limited to:
         </div>
-        <p class="p-text">Topics including (but not limit to):</p>
         <div class="cente-text-cente flex">
           <div class="text">
             <span>Techniques: </span>
@@ -107,6 +122,12 @@
           published or currently under review. The submissions can contain author details. The workshop will not have
           formal proceedings, but authors of accepted papers can choose to have their work published on the workshop
           webpage. Top selected papers from the workshop will be invited to publish in a journal special issue.
+          <br /><br />
+
+          We recommend submitting your paper through EasyChair. The paper submission link is as follows:
+          <a href="https://easychair.org/conferences/?conf=finllm2023">
+            https://easychair.org/conferences/?conf=finllm2023</a
+          >
         </div>
       </div>
     </div>
@@ -303,6 +324,52 @@ export default {}
     color: #0d152e;
     line-height: 60px;
     font-weight: 700;
+  }
+
+  .center-img-box {
+    display: flex;
+    margin-top: 72px;
+    margin-bottom: 32px;
+    width: 100%;
+
+    .center-text-box {
+      border-color: transparent;
+      color: #ffffff;
+      border-radius: 15px 0 0 15px;
+      background-color: #20b9e1;
+      width: 40%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .center-text-top {
+        margin-bottom: 12px;
+      }
+
+      .center-text-title {
+        font-weight: 600;
+        font-size: 32px;
+      }
+
+      .center-text-body {
+        font-weight: 400;
+        font-size: 24px;
+      }
+    }
+
+    @media (max-width: 750px) {
+      margin-top: 32px;
+      .center-text-content {
+        margin-left: 24px;
+      }
+    }
+
+    .center-img {
+      flex-grow: 1;
+      border-radius: 0 15px 15px 0;
+      border-left: 1px solid #20b9e1;
+      height: 320px;
+    }
   }
   .cente-text {
     font-size: 20px;
