@@ -412,10 +412,15 @@ export default {}
     line-height: 60px;
     font-weight: 700;
     margin-top: 50px;
+    @media (max-width: 750px) {
+      font-size: 48px;
+      line-height: 1.5;
+    }
   }
   .sub-img {
     width: 300px;
     height: 434px;
+    flex-shrink: 0;
     @media (max-width: 750px) {
       width: 330px;
     }
@@ -483,6 +488,11 @@ export default {}
       margin-top: 32px;
       .center-text-content {
         margin-left: 24px;
+        @media (max-width: 750px) {
+          span {
+            font-size: 35px !important;
+          }
+        }
       }
     }
 
@@ -533,7 +543,7 @@ export default {}
           width: 25%;
           @media (max-width: 750px) {
             width: 50%;
-            margin-bottom: 30px;
+            margin-bottom: 40px;
           }
           .avt {
             width: 90px;
