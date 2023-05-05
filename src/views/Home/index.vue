@@ -277,7 +277,7 @@
             8.Chaoping Xing (Nanyang Technological University) <br />9.Chaoyang He (University of Southern
             California)<br />
             10.Dimitrios Papadopoulos (Hong Kong University of Science and Technology) <br />11.Fabio Casati (University
-            of Trento) <br />12.Farinaz Koushanfar (University of California San Diego) <br />13.Fangkai Tang (E Funds)
+            of Trento) <br />12.Farinaz Koushanfar (University of California San Diego) <br />13.Fangkai Tang (E Fund)
             <br />14.Gauri Joshi (Carnegie Mellon University) <br />15.Graham Cormode (University of Warwick)
             <br />16.Helen (Hai) Li (Duke University)<br />
             17.Jalaj Upadhyay (Apple) <br />18.Ji Feng (Sinnovation Ventures AI Institute) <br />19.Jian Liu (Ping An
@@ -298,11 +298,11 @@
             36.Rui Lin (Chalmers University of Technology) <br />37.Sewoong Oh (University of Illinois at
             Urbana-Champaign)<br />
             38.Shiqiang Wang (IBM) <br />39.Siwei Feng (Nanyang Technological University) <br />40.Tara Javidi
-            (University of California San Diego) <br />41.Xiaoyu Wang (E Funds) <br />42.Yihan Jiang (University of
-            Washington) <br />43.Yongxin Tong (Beihang University) <br />44.Tongzhe Zhang (E Funds) <br />45.Yuxiang
-            Wang (E Funds) <br />46.Zelei Liu (Nanyang Technological University) <br />47.Zichen Chen (Nanyang
-            Technological University) <br />48.Yuanyuan Chen (Nanyang Technological University) <br />49.Zheng Xu
-            (University of Science and Technology of China) <br />50.Zhengfei Li (E Funds)
+            (University of California San Diego) <br />41.Xiaoyu Wang (E Fund) <br />42.Yihan Jiang (University of
+            Washington) <br />43.Yongxin Tong (Beihang University) <br />44.Tongzhe Zhang (E Fund) <br />45.Yuxiang Wang
+            (E Fund) <br />46.Zelei Liu (Nanyang Technological University) <br />47.Zichen Chen (Nanyang Technological
+            University) <br />48.Yuanyuan Chen (Nanyang Technological University) <br />49.Zheng Xu (University of
+            Science and Technology of China) <br />50.Zhengfei Li (E Fund)
           </div>
         </div>
       </div>
