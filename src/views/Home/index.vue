@@ -1,14 +1,20 @@
 <template>
   <div class="home">
     <div class="header">
-      <div class="w padding">
+      <div class="w padding flex">
         <span>FinLLM 2023</span>
+        <div class="right">
+          <img
+            src="@/assets/img/ijcai.png"
+            alt=""
+          />
+        </div>
       </div>
     </div>
     <div class="subtitle padding w">
       <div class="sub-text">
         International Symposium on <br />Large Language Models for Financial Services<br />
-        (FinLLM 2023)
+        (FinLLM 2023)@IJCAI 2023
       </div>
       <div class="sub-img">
         <img
@@ -33,6 +39,91 @@
           class="center-img"
           src="@/assets/img/hotel.png"
         />
+      </div>
+      <h1>Committee</h1>
+      <div class="cente-text mg-bottom">
+        <div class="centet-people">
+          <div class="left-title">General Chair</div>
+          <div class="people-box">
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/7.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Qiang Yang</p>
+                <p class="note">WeBank/HKUST</p>
+              </div>
+            </div>
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/9.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Liyuan Chen</p>
+                <p class="note">E Fund</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="centet-people">
+          <div class="left-title">Program Chair</div>
+          <div class="people-box">
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/6.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Shuoling Liu</p>
+                <p class="note">E Fund</p>
+              </div>
+            </div>
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/xueyang wu.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Xueyang Wu</p>
+                <p class="note">Flaiverse</p>
+              </div>
+            </div>
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/yongpeng tang.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Yongpeng Tang</p>
+                <p class="note">E Fund</p>
+              </div>
+            </div>
+            <div class="info-box">
+              <div class="avt xuqian">
+                <img
+                  src="@/assets/img/Qian xu.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Qian Xu</p>
+                <p class="note">HKUST</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <h1>Scope and Objective</h1>
       <div class="cente-text mg-bottom">
@@ -291,6 +382,19 @@ export default {}
   font-weight: 700;
   background: url('@/assets/img/CTA.png') no-repeat;
   background-size: cover;
+  .right {
+    width: 172px;
+    height: 64px;
+    @media (max-width: 750px) {
+      width: 300px;
+      height: 120px;
+    }
+    img {
+      width: 100%;
+      height: 100%;
+      vertical-align: top;
+    }
+  }
 }
 .footer {
   height: 151px;
@@ -312,6 +416,9 @@ export default {}
   .sub-img {
     width: 300px;
     height: 434px;
+    @media (max-width: 750px) {
+      width: 330px;
+    }
     img {
       width: 100%;
       height: 100%;
@@ -331,6 +438,12 @@ export default {}
     margin-top: 72px;
     margin-bottom: 32px;
     width: 100%;
+    @media (max-width: 750px) {
+      flex-direction: column;
+      border-radius: 20px;
+      background-color: #20b9e1;
+      padding: 40px 0;
+    }
 
     .center-text-box {
       border-color: transparent;
@@ -341,9 +454,18 @@ export default {}
       display: flex;
       justify-content: center;
       align-items: center;
+      @media (max-width: 750px) {
+        width: 100%;
+        justify-content: start;
+        padding-left: 30px;
+        font-size: 42px;
+      }
 
       .center-text-top {
         margin-bottom: 12px;
+        @media (max-width: 750px) {
+          margin-bottom: 20px;
+        }
       }
 
       .center-text-title {
@@ -369,6 +491,11 @@ export default {}
       border-radius: 0 15px 15px 0;
       border-left: 1px solid #20b9e1;
       height: 320px;
+      @media (max-width: 750px) {
+        width: 100%;
+        height: auto;
+        margin-top: 30px;
+      }
     }
   }
   .cente-text {
@@ -377,6 +504,86 @@ export default {}
     text-align: justify;
     line-height: 34px;
     font-weight: 500;
+    .centet-people {
+      display: flex;
+      align-items: center;
+      margin-top: 40px;
+      @media (max-width: 750px) {
+        display: block;
+      }
+      .left-title {
+        font-size: 24px;
+        color: #1eb9e1;
+        font-weight: 700;
+        width: 200px;
+        @media (max-width: 750px) {
+          width: auto;
+          font-size: 42px;
+          margin-bottom: 20px;
+        }
+      }
+      .people-box {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        .info-box {
+          display: flex;
+          align-items: center;
+          width: 25%;
+          @media (max-width: 750px) {
+            width: 50%;
+            margin-bottom: 30px;
+          }
+          .avt {
+            width: 90px;
+            height: 90px;
+            margin-right: 20px;
+            background: rgba(95, 95, 95, 0.16);
+            border-radius: 50%;
+            @media (max-width: 750px) {
+              width: 180px;
+              height: 180px;
+            }
+            img {
+              width: 100%;
+              height: 100%;
+            }
+          }
+          .xuqian {
+            width: 100px;
+            height: 90px;
+          }
+          @media (max-width: 750px) {
+            .xuqian {
+              width: 200px;
+              height: 180px;
+            }
+          }
+          .info {
+            p {
+              margin: 0;
+            }
+            .name {
+              font-size: 19.8px;
+              color: #292f36;
+              font-weight: 700;
+              @media (max-width: 750px) {
+                font-size: 42px;
+              }
+            }
+            .note {
+              font-size: 16.2px;
+              color: #292f36;
+              font-weight: 500;
+              @media (max-width: 750px) {
+                font-size: 32px;
+              }
+            }
+          }
+        }
+      }
+    }
     .cente-text-title {
       font-size: 26px;
       font-weight: 700;
