@@ -89,7 +89,7 @@
             <div class="info-box">
               <div class="avt">
                 <img
-                  src="@/assets/img/xueyang wu.jpg"
+                  src="@/assets/img/xueyangWu.png"
                   alt=""
                 />
               </div>
@@ -111,9 +111,9 @@
               </div>
             </div>
             <div class="info-box">
-              <div class="avt xuqian">
+              <div class="avt">
                 <img
-                  src="@/assets/img/Qian xu.jpg"
+                  src="@/assets/img/qianxu.png"
                   alt=""
                 />
               </div>
@@ -551,6 +551,8 @@ export default {}
             margin-right: 20px;
             background: rgba(95, 95, 95, 0.16);
             border-radius: 50%;
+            border: 1px solid #e2e2e2;
+            overflow: hidden;
             @media (max-width: 750px) {
               width: 180px;
               height: 180px;
