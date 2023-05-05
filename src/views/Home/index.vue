@@ -283,7 +283,7 @@
             17.Jalaj Upadhyay (Apple) <br />18.Ji Feng (Sinnovation Ventures AI Institute) <br />19.Jian Liu (Ping An
             Asset Management) <br />20.Jianshu Weng (Swiss Re) <br />21.Jihong Park (University of Oulu) <br />22.Joshua
             Gardner (University of Michigan) <br />23.Jun Zhao (Nanyang Technological University) <br />24.Junyang Li (E
-            Funds)
+            Fund)
           </div>
         </div>
         <div class="item-box-right">
@@ -292,7 +292,7 @@
             (Google)<br />
             28.Martin Jaggi (Ecole Polytechnique Fédérale de Lausanne) <br />29.Mehdi Bennis (University of Oulu)
             <br />30.Mingshu Cong (The University of Hong Kong) <br />31.Nguyen Tran (The University of Sydney)
-            <br />32.Ning Cheng (E Fuds)<br />
+            <br />32.Ning Cheng (E Fund)<br />
             33.Pingzhong Tang (Tsinghua University) <br />34.Praneeth Vepakomma (MIT) <br />35.Prateek Mittal (Princeton
             University)<br />
             36.Rui Lin (Chalmers University of Technology) <br />37.Sewoong Oh (University of Illinois at
