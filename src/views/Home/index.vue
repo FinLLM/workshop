@@ -551,7 +551,7 @@ export default {}
             margin-right: 20px;
             background: rgba(95, 95, 95, 0.16);
             border-radius: 50%;
-            border: 1px solid #e2e2e2;
+            // border: 1px solid #e2e2e2;
             overflow: hidden;
             @media (max-width: 750px) {
               width: 180px;
