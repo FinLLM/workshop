@@ -158,17 +158,17 @@
     <div class="center-box w padding">
       <h1>Organization</h1>
       <div class="item-box">
-        <div class="item-box-left">
+        <!-- <div class="item-box-left">
           <p>Workshop Organizers:</p>
           <div>
             -Shuoling Liu (E Fund) <br />-Xueyang Wu (Flaiverse) <br />-Yongpeng Tang (E Fund) <br />-Qian Xu (HKUST)
             <br />-Liyuan Chen (E Fund) <br />-Qiang Yang (WeBank/HKUST, Hong Kong)
           </div>
-        </div>
+        </div> -->
         <div class="item-box-right">
-          <p>Possible Invited Speakers:</p>
+          <p>Invited Speakers:</p>
           <div>
-            1.Shijie Wu (Bloomberg) <br />2.Bai Shuo (Chief Senior Technical Advisor of the Intelligent Investment
+            <!-- 1.Shijie Wu (Bloomberg) <br />2.Bai Shuo (Chief Senior Technical Advisor of the Intelligent Investment
             Research Technology) <br />3.Zhong Yuyang (Chief Information Officer of China Southern Asset Management)
             <br />4.Sun Jianing (General Manager of both the Quantitative Investment Department and Equity Research
             Department at Guotai Junan Securities Asset Management) <br />5.Jinlong Li (Director of the AI Laboratory of
@@ -176,7 +176,8 @@
             <br />8.Kar Yan Tam (Dean of HKUST Business School) <br />9.Sau San Chan (Chairman of the Monetary Authority
             of Macao) <br />10.Eddie Yue (Chief Executive of the Hong Kong Monetary Authority) <br />11.Jie He (Head of
             the Shenzhen Local Financial Supervision and Administration Bureau) <br />12.Ravi Menon (Managing Director
-            of the Monetary Authority of Singapore)
+            of the Monetary Authority of Singapore) -->
+            TBA
           </div>
         </div>
       </div>
