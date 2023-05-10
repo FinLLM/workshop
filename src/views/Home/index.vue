@@ -166,9 +166,9 @@
           </div>
         </div> -->
         <div class="item-box-right">
-          <p>Invited Speakers:</p>
+          <p>Possible Invited Speakers:</p>
           <div>
-            <!-- 1.Shijie Wu (Bloomberg) <br />2.Bai Shuo (Chief Senior Technical Advisor of the Intelligent Investment
+            1.Shijie Wu (Bloomberg) <br />2.Bai Shuo (Chief Senior Technical Advisor of the Intelligent Investment
             Research Technology) <br />3.Zhong Yuyang (Chief Information Officer of China Southern Asset Management)
             <br />4.Sun Jianing (General Manager of both the Quantitative Investment Department and Equity Research
             Department at Guotai Junan Securities Asset Management) <br />5.Jinlong Li (Director of the AI Laboratory of
@@ -176,8 +176,7 @@
             <br />8.Kar Yan Tam (Dean of HKUST Business School) <br />9.Sau San Chan (Chairman of the Monetary Authority
             of Macao) <br />10.Eddie Yue (Chief Executive of the Hong Kong Monetary Authority) <br />11.Jie He (Head of
             the Shenzhen Local Financial Supervision and Administration Bureau) <br />12.Ravi Menon (Managing Director
-            of the Monetary Authority of Singapore) -->
-            TBA
+            of the Monetary Authority of Singapore)
           </div>
         </div>
       </div>
