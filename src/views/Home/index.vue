@@ -40,91 +40,7 @@
           src="@/assets/img/hotel.png"
         />
       </div>
-      <h1>Committee</h1>
-      <div class="cente-text mg-bottom">
-        <div class="centet-people">
-          <div class="left-title">General Chair</div>
-          <div class="people-box">
-            <div class="info-box">
-              <div class="avt">
-                <img
-                  src="@/assets/img/7.png"
-                  alt=""
-                />
-              </div>
-              <div class="info">
-                <p class="name">Qiang Yang</p>
-                <p class="note">WeBank/HKUST</p>
-              </div>
-            </div>
-            <div class="info-box">
-              <div class="avt">
-                <img
-                  src="@/assets/img/9.png"
-                  alt=""
-                />
-              </div>
-              <div class="info">
-                <p class="name">Liyuan Chen</p>
-                <p class="note">E Fund</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="centet-people">
-          <div class="left-title">Program Chair</div>
-          <div class="people-box">
-            <div class="info-box">
-              <div class="avt">
-                <img
-                  src="@/assets/img/6.png"
-                  alt=""
-                />
-              </div>
-              <div class="info">
-                <p class="name">Shuoling Liu</p>
-                <p class="note">E Fund</p>
-              </div>
-            </div>
-            <div class="info-box">
-              <div class="avt">
-                <img
-                  src="@/assets/img/xueyangWu.png"
-                  alt=""
-                />
-              </div>
-              <div class="info">
-                <p class="name">Xueyang Wu</p>
-                <p class="note">Flaiverse</p>
-              </div>
-            </div>
-            <div class="info-box">
-              <div class="avt">
-                <img
-                  src="@/assets/img/yongpeng tang.png"
-                  alt=""
-                />
-              </div>
-              <div class="info">
-                <p class="name">Yongpeng Tang</p>
-                <p class="note">E Fund</p>
-              </div>
-            </div>
-            <div class="info-box">
-              <div class="avt">
-                <img
-                  src="@/assets/img/qianxu.png"
-                  alt=""
-                />
-              </div>
-              <div class="info">
-                <p class="name">Qian Xu</p>
-                <p class="note">HKUST</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <!-- <h1>Committee</h1> -->
       <h1>Scope and Objective</h1>
       <div class="cente-text mg-bottom">
         Pretrained large language models (LLMs) have demonstrated tremendous potential in various natural language
@@ -264,7 +180,7 @@
           </div>
         </div>
       </div>
-      <p class="h1-title">Tentative Program Committee:</p>
+      <!-- <p class="h1-title">Tentative Program Committee:</p>
       <div class="item-box mg-bottom">
         <div class="item-box-left bg-none media-bottom">
           <div>
@@ -305,8 +221,93 @@
             Science and Technology of China) <br />50.Zhengfei Li (E Fund)
           </div>
         </div>
-      </div>
+      </div> -->
+      <p><br /></p>
       <h1>Organizers of Organizing Committee</h1>
+      <div class="cente-text mg-bottom">
+        <div class="centet-people">
+          <div class="left-title">General Chair</div>
+          <div class="people-box">
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/7.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Qiang Yang</p>
+                <p class="note">WeBank/HKUST</p>
+              </div>
+            </div>
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/9.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Liyuan Chen</p>
+                <p class="note">E Fund</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="centet-people">
+          <div class="left-title">Program Chair</div>
+          <div class="people-box">
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/6.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Shuoling Liu</p>
+                <p class="note">E Fund</p>
+              </div>
+            </div>
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/xueyangWu.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Xueyang Wu</p>
+                <p class="note">Flaiverse</p>
+              </div>
+            </div>
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/yongpeng tang.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Yongpeng Tang</p>
+                <p class="note">E Fund</p>
+              </div>
+            </div>
+            <div class="info-box">
+              <div class="avt">
+                <img
+                  src="@/assets/img/qianxu.png"
+                  alt=""
+                />
+              </div>
+              <div class="info">
+                <p class="name">Qian Xu</p>
+                <p class="note">HKUST</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="cente-text mg-bottom">
         <div class="cente-text-cente justify">
           <span>Shuoling Liu: </span>
