@@ -173,7 +173,7 @@
               :key="item"
               :class="index <= 2 ? 'isH5' : ''"
             >
-              TAB
+              TBA
               <!-- 1.Shijie Wu (Bloomberg) <br />2.Bai Shuo (Chief Senior Technical Advisor of the Intelligent Investment
             Research Technology) <br />3.Zhong Yuyang (Chief Information Officer of China Southern Asset Management)
             <br />4.Sun Jianing (General Manager of both the Quantitative Investment Department and Equity Research
