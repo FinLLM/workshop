@@ -16,19 +16,19 @@
         International Symposium on <br />Large Language Models for Financial Services<br />
         (FinLLM 2023)@IJCAI 2023
       </div>
-      <div class="sub-img">
+      <!-- <div class="sub-img">
         <img
           src="@/assets/img/subImg.png"
           alt=""
         />
-      </div>
+      </div> -->
     </div>
     <div class="center-box w padding">
       <div class="center-img-box">
         <div class="center-text-box">
           <div class="center-text-content">
             <div class="center-text-top">
-              <span class="center-text-title">Workshop Date: <br /></span>
+              <span class="center-text-title">Symposium Date: <br /></span>
               <span class="center-text-body">August 20, 2023 <br /></span>
             </div>
             <span class="center-text-title">Venue: <br /></span>
@@ -96,14 +96,14 @@
         <div class="card">
           <p class="title">Submission Due:</p>
           <p class="timer">
-            <span class="month">May 28, 2023</span>
+            <span class="month">June 4, 2023</span>
             <span class="date">(23:59:59 AoE)</span>
           </p>
         </div>
         <div class="card">
           <p class="title">Notification Due:</p>
           <p class="timer">
-            <span class="month">June 15, 2023</span>
+            <span class="month">June 22, 2023</span>
             <span class="date">(23:59:59 AoE)</span>
           </p>
         </div>
@@ -115,7 +115,7 @@
           </p>
         </div>
         <div class="card">
-          <p class="title">Workshop Date:</p>
+          <p class="title">Symposium Date:</p>
           <p class="timer">
             <span class="month">August 20, 2023</span>
           </p>
@@ -126,9 +126,9 @@
         <div class="cente-text-cente justify">
           Submissions should be a maximum of 7 and a minimum of 4 pages including figures and tables in IJCAI'23 format.
           Additional pages containing only cited references are allowed. We do accept submissions of work recently
-          published or currently under review. The submissions can contain author details. The workshop will not have
-          formal proceedings, but authors of accepted papers can choose to have their work published on the workshop
-          webpage. Top selected papers from the workshop will be invited to publish in a journal special issue.
+          published or currently under review. The submissions can contain author details. The Symposium will not have
+          formal proceedings, but authors of accepted papers can choose to have their work published on the Symposium
+          webpage. Top selected papers from the Symposium will be invited to publish in a journal special issue.
           <br /><br />
 
           We recommend submitting your paper through EasyChair. The paper submission link is as follows:
@@ -159,16 +159,22 @@
       <h1>Organization</h1>
       <div class="item-box">
         <!-- <div class="item-box-left">
-          <p>Workshop Organizers:</p>
+          <p>Symposium Organizers:</p>
           <div>
             -Shuoling Liu (E Fund) <br />-Xueyang Wu (Flaiverse) <br />-Yongpeng Tang (E Fund) <br />-Qian Xu (HKUST)
             <br />-Liyuan Chen (E Fund) <br />-Qiang Yang (WeBank/HKUST, Hong Kong)
           </div>
         </div> -->
         <div class="item-box-right">
-          <p>Possible Invited Speakers:</p>
+          <p>Invited Speakers</p>
           <div>
-            1.Shijie Wu (Bloomberg) <br />2.Bai Shuo (Chief Senior Technical Advisor of the Intelligent Investment
+            <div
+              v-for="(item, index) in 6"
+              :key="item"
+              :class="index <= 2 ? 'isH5' : ''"
+            >
+              TAB
+              <!-- 1.Shijie Wu (Bloomberg) <br />2.Bai Shuo (Chief Senior Technical Advisor of the Intelligent Investment
             Research Technology) <br />3.Zhong Yuyang (Chief Information Officer of China Southern Asset Management)
             <br />4.Sun Jianing (General Manager of both the Quantitative Investment Department and Equity Research
             Department at Guotai Junan Securities Asset Management) <br />5.Jinlong Li (Director of the AI Laboratory of
@@ -176,7 +182,9 @@
             <br />8.Kar Yan Tam (Dean of HKUST Business School) <br />9.Sau San Chan (Chairman of the Monetary Authority
             of Macao) <br />10.Eddie Yue (Chief Executive of the Hong Kong Monetary Authority) <br />11.Jie He (Head of
             the Shenzhen Local Financial Supervision and Administration Bureau) <br />12.Ravi Menon (Managing Director
-            of the Monetary Authority of Singapore)
+            of the Monetary Authority of Singapore) -->
+            </div>
+            <div>···</div>
           </div>
         </div>
       </div>
@@ -334,7 +342,9 @@
           PhD, UMD (1989), Department Head of CSE & University New Bright Professor of Engineering and Chair Professor
           at HKUST. Fellow of AAAI, ACM, IEEE, AAAS, IAPR, CAAI. IJCAI President (2017-2019), ACM SIGART (SIGAI) Vice
           Chair (2009-2012), PC Chair or Co-Chair: IJCAI (2015), ACM KDD (2010)<br />
-          Google Scholar: <br />https://scholar.google.com/citations?user=1LxWZLQAAAAJ
+          Google Scholar: <br /><a href="https://scholar.google.com/citations?user=1LxWZLQAAAAJ"
+            >https://scholar.google.com/citations?user=1LxWZLQAAAAJ</a
+          >
         </div>
       </div>
       <h1>The Main Conference Information</h1>
@@ -402,19 +412,24 @@ export default {}
   margin-top: 100px;
 }
 .subtitle {
-  background: url('@/assets/img/bgMap.png') no-repeat;
-  background-size: contain;
+  background: url('@/assets/img/header-bg.png') no-repeat;
+  height: 614px;
+  box-sizing: border-box;
+  background-size: 100% 100%;
   display: flex;
   justify-content: space-between;
   padding-top: 144px;
+  @media (max-width: 750px) {
+    height: 1200px;
+  }
   .sub-text {
     font-size: 43px;
-    color: #1eb9e1;
+    color: #ffffff;
     line-height: 60px;
     font-weight: 700;
     margin-top: 50px;
     @media (max-width: 750px) {
-      font-size: 48px;
+      font-size: 80px;
       line-height: 1.5;
     }
   }
@@ -437,6 +452,15 @@ export default {}
     color: #0d152e;
     line-height: 60px;
     font-weight: 700;
+    &::before {
+      content: '';
+      display: inline-block;
+      width: 10px;
+      height: 40px;
+      background-color: #4774f4;
+      margin-right: 10px;
+      vertical-align: baseline;
+    }
   }
 
   .center-img-box {
@@ -444,18 +468,17 @@ export default {}
     margin-top: 72px;
     margin-bottom: 32px;
     width: 100%;
+    background-color: #299bff;
     @media (max-width: 750px) {
       flex-direction: column;
       border-radius: 20px;
-      background-color: #20b9e1;
-      padding: 40px 0;
+      padding: 80px 0;
     }
 
     .center-text-box {
       border-color: transparent;
       color: #ffffff;
       border-radius: 15px 0 0 15px;
-      background-color: #20b9e1;
       width: 40%;
       display: flex;
       justify-content: center;
@@ -486,12 +509,12 @@ export default {}
     }
 
     @media (max-width: 750px) {
-      margin-top: 32px;
+      margin-top: -250px;
       .center-text-content {
         margin-left: 24px;
         @media (max-width: 750px) {
           span {
-            font-size: 35px !important;
+            font-size: 50px !important;
           }
         }
       }
@@ -524,7 +547,7 @@ export default {}
       }
       .left-title {
         font-size: 24px;
-        color: #1eb9e1;
+        color: #0078ce;
         font-weight: 700;
         width: 200px;
         @media (max-width: 750px) {
@@ -680,10 +703,44 @@ export default {}
       }
     }
     .item-box-right {
-      width: 50%;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      @media (max-width: 750px) {
+        display: block;
+      }
+      & > div {
+        display: flex;
+        flex: 1;
+        justify-content: space-between;
+        margin-left: 40px;
+        & > div {
+          width: 90px;
+          height: 90px;
+          background: url('@/assets/img/rect.png') no-repeat;
+          background-size: cover;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: #ffffff;
+          @media (max-width: 750px) {
+            width: 250px;
+            height: 250px;
+            margin-top: 40px;
+          }
+        }
+        @media (max-width: 750px) {
+          .isH5 {
+            display: none;
+          }
+        }
+      }
       p {
         font-size: 26px;
         font-weight: 700;
+        margin: 0;
+        color: #0078ce;
       }
     }
     .bg-none {
@@ -712,6 +769,15 @@ export default {}
       line-height: 60px;
       font-weight: 700;
       margin-bottom: 50px;
+      &::before {
+        content: '';
+        display: inline-block;
+        width: 10px;
+        height: 40px;
+        background-color: #ffffff;
+        margin-right: 10px;
+        vertical-align: baseline;
+      }
     }
     & > div {
       display: flex;
