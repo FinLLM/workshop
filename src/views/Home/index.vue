@@ -1,5 +1,11 @@
 <template>
   <div class="home">
+    <div style="display: none;">
+      <img
+      src="@/assets/img/ijcai(1).png"
+      alt=""
+    />
+    </div>
     <div class="header">
       <div class="w padding flex">
         <span>FinLLM 2023</span>
