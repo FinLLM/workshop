@@ -1,10 +1,10 @@
 <template>
   <div class="home">
-    <div style="display: none;">
+    <div style="display: none">
       <img
-      src="@/assets/img/ijcai(1).png"
-      alt=""
-    />
+        src="@/assets/img/logo.jpg"
+        alt=""
+      />
     </div>
     <div class="header">
       <div class="w padding flex">
