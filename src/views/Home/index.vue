@@ -137,7 +137,7 @@
           webpage. Top selected papers from the Symposium will be invited to publish in a journal special issue.
           <br /><br />
 
-          We recommend submitting your paper through EasyChair. The paper submission link is as follows:
+          We recommend submitting your paper through EasyChair. The paper submission link is as follows:<br />
           <a href="https://easychair.org/conferences/?conf=finllm2023">
             https://easychair.org/conferences/?conf=finllm2023</a
           >
@@ -355,7 +355,7 @@
       </div>
       <h1>The Main Conference Information</h1>
       <div class="cente-text mg-bottom">
-        <div class="cente-text-cente justify">
+        <div class="cente-text-cente">
           IJCAI 2023, <br />THE 32nd INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE. <br />19th-25th August
           2023 <br />Macao, S.A.R <br />
           <a href="https://ijcai-23.org/">https://ijcai-23.org/</a>
@@ -639,6 +639,9 @@ export default {}
       }
       .img-box {
         width: 620px;
+        @media (max-width: 750px) {
+          display: none;
+        }
         img {
           width: 100%;
           height: 100%;
@@ -733,6 +736,11 @@ export default {}
           @media (max-width: 750px) {
             width: 250px;
             height: 250px;
+            margin-top: 40px;
+          }
+          @media (max-width: 375px) {
+            width: 200px;
+            height: 200px;
             margin-top: 40px;
           }
         }

@@ -1,39 +1,61 @@
+@size: 50px;
 .public-mixin(){
   .center-box {
+    h1{
+      font-size: @size + 10px;
+    }
     .cente-text {
-      font-size: 40px;
+      font-size: @size;
+      line-height: 1.5;
       .cente-text-title {
-        font-size: 40px;
+        text-align: left;
+        font-size: @size;
       }
       .p-text {
-        font-size: 40px;
+        font-size: @size;
       }
       .cente-text-cente span {
-        font-size: 40px;
+        font-size: @size;
       }
     }
     .item-box {
-      font-size: 40px;
+      font-size: @size;
     }
   }
   .center-box .card-box .card {
     .title {
-      font-size: 30px;
+      font-size: @size - 10px;
     }
   }
   .center-box .card-box .card .timer .date {
-    font-size: 20px;
+    font-size: @size / 2;
   }
   .center-box .card-box .card .timer .month {
-    font-size: 28px;
+    font-size: @size - 12px;
   }
   .center-box .item-box .item-box-left p {
-    font-size: 40px;
+    font-size: @size;
   }
   .center-box .item-box .item-box-right p {
-    font-size: 40px;
+    font-size: @size;
   }
   .center-box .h1-title {
-    font-size: 40px;
+    font-size: @size;
+  }
+  .middle{
+    &>div{
+      &>div{
+        &>div{
+          font-size: @size;
+          line-height: 2;
+          span{
+            font-size: @size;
+          }
+        }
+      }
+    }
+    h1{
+      font-size: @size + 10px;
+    }
   }
 }
