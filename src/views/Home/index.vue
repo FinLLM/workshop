@@ -373,7 +373,7 @@ export default {}
 <style lang="less" scoped>
 @import '../../style/public.less';
 .padding {
-  padding: 0 205px;
+  padding: 0 130px;
 }
 .w {
   min-width: 1715px;
