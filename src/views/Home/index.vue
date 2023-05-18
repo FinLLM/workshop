@@ -43,7 +43,7 @@
         </div>
         <img
           class="center-img"
-          src="@/assets/img/hotel.png"
+          src="@/assets/img/hotel.jpg"
         />
       </div>
       <!-- <h1>Committee</h1> -->
