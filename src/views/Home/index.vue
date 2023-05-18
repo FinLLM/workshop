@@ -102,7 +102,7 @@
         <div class="card">
           <p class="title">Submission Due:</p>
           <p class="timer">
-            <span class="month">June 4, 2023</span>
+            <span class="month">June 20, 2023</span>
             <span class="date">(23:59:59 AoE)</span>
           </p>
         </div>
@@ -342,8 +342,7 @@
           federated learning, NLP, LLMs. Experience at Baidu Inc. & Webank Inc. Executive Director of GSAIR & Founding
           Member of GBA Society of AI and Robotics. <br /><br />
           <span>Liyuan Chen: </span>
-          COO, Chairman of Fin-Tech Technology Committee at E Fund. 10+ years experience. Led FinTech Sector at E Fund,
-          resulting in high-profit productivities & top-tier conference publications. <br /><br />
+          COO, Chairman of Fin-Tech Technology Committee at E Fund. 10+ years experience. <br /><br />
           <span>Qiang Yang: </span>
           PhD, UMD (1989), Department Head of CSE & University New Bright Professor of Engineering and Chair Professor
           at HKUST. Fellow of AAAI, ACM, IEEE, AAAS, IAPR, CAAI. IJCAI President (2017-2019), ACM SIGART (SIGAI) Vice
