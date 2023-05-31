@@ -621,7 +621,7 @@ export default {}
         font-size: 24px;
         color: #0078ce;
         font-weight: 700;
-        width: 200px;
+        width: 280px;
         @media (max-width: 750px) {
           width: auto;
           font-size: 42px;
@@ -684,6 +684,7 @@ export default {}
               font-size: 16.2px;
               color: #292f36;
               font-weight: 500;
+              text-align: left;
               @media (max-width: 750px) {
                 font-size: 32px;
               }
@@ -782,6 +783,12 @@ export default {}
       display: flex;
       align-items: center;
       justify-content: space-between;
+      & > p {
+        width: 280px;
+        @media (max-width: 750px) {
+          width: auto;
+        }
+      }
       @media (max-width: 750px) {
         display: block;
       }
@@ -789,9 +796,9 @@ export default {}
         display: flex;
         flex: 1;
         justify-content: space-between;
-        margin-left: 120px;
+        // margin-left: 120px;
         @media (max-width: 750px) {
-          margin-left: 40px;
+          // margin-left: 40px;
           flex-wrap: wrap;
           margin-top: 40px;
         }
