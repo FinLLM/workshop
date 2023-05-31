@@ -838,6 +838,7 @@ export default {}
             }
           }
           .info {
+            flex: 1;
             p {
               margin: 0;
             }
@@ -853,6 +854,7 @@ export default {}
               font-size: 16.2px;
               color: #292f36;
               font-weight: 500;
+              text-align: left;
               @media (max-width: 750px) {
                 font-size: 32px;
               }
