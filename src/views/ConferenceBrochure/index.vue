@@ -257,6 +257,14 @@
       </div>
       <h1 class="big-title">Award</h1>
     </div>
+    <div class="jz-box w padding">
+      <img
+        v-for="item in 6"
+        :key="item"
+        :src="require(`../../assets/img/jiangzhuang (${item}).jpg`)"
+        alt=""
+      />
+    </div>
     <div class="footer padding">
       <div>
         <div class="email-icon"></div>
@@ -491,6 +499,15 @@ export default {}
   .w {
     min-width: 100vw;
     max-width: 100vw;
+  }
+}
+.jz-box {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  img {
+    width: 48%;
+    margin-bottom: 50px;
   }
 }
 </style>
