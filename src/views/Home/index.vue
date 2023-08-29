@@ -22,6 +22,12 @@
         International Symposium on <br />Large Language Models for Financial Services<br />
         (FinLLM 2023)@IJCAI 2023
       </div>
+      <button
+        class="registration"
+        @click="$router.push('/fcb')"
+      >
+        List of Awards
+      </button>
       <!-- <div class="sub-img">
         <img
           src="@/assets/img/subImg.png"
@@ -508,8 +514,8 @@ export default {}
   height: 614px;
   box-sizing: border-box;
   background-size: 100% 100%;
-  display: flex;
-  justify-content: space-between;
+  // display: flex;
+  // justify-content: space-between;
   padding-top: 144px;
   @media (max-width: 750px) {
     height: 1200px;
@@ -535,6 +541,21 @@ export default {}
     img {
       width: 100%;
       height: 100%;
+    }
+  }
+  .registration {
+    width: 150px;
+    height: 50px;
+    background-color: #4270f1;
+    border: none;
+    color: #ffffff;
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    @media (max-width: 750px) {
+      width: 300px;
+      height: 100px;
+      font-size: 28px;
     }
   }
 }
